@@ -1,3 +1,4 @@
+:- encoding(utf8).
 :- use_module(library(plunit)).
 :- use_module(library(lists)).
 :- consult('../ejercicios-clase2-3').

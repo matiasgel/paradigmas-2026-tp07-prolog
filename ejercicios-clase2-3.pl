@@ -1,3 +1,4 @@
+:- encoding(utf8).
 % ============================================================
 %  EJERCICIOS — Paradigma Lógico: Prolog — Clase 2+3
 %  Unificación, Backtracking, Corte, Negación, Aritmética,
